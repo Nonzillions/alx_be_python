@@ -1,5 +1,0 @@
-hours = 2
-
-# Convert hours to seconds
-seconds = hours * 3600
-print("2 hour(s) is ", (seconds))
